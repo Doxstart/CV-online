@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Monofett&display=swap');
+
+.backgr-img{
+    background-image: url(./assets/fondimg.jpg);
+    background-position: center center;
+    background-size: auto auto;
+}
+
+.fontcolor{
+    color: white;
+}
+
+.titlefont{
+    font-family: 'Monofett', cursive;
+    font-size: xx-large;
+}
+
+.bodyfont{
+    font-family: 'Aldrich', sans-serif;
+    font-size: larger;
+}
