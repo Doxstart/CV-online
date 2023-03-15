@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Monofett&display=swap');
 
+.container{
+    max-width: 700px;
+    margin: auto;
+}
+
 h1, h2, h3, h4, a{
     background-color: black;
     display: inline;
